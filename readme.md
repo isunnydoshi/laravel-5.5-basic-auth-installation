@@ -4,7 +4,7 @@
 
 Laravel is one of the most known PHP frameworks in the market, used by millions of developers around the world. Moreover, installing Laravel is quite simple as well, and can be done within minutes.
 
-This repository comes with basic authentication for Laravel 5.5 as the fresh Laravel checkout didn't include all the required files by default.
+This repository comes with basic authentication for **Laravel 5.5** as the fresh Laravel checkout didn't include all the required files by default.
 
 Features:
 
