@@ -30,6 +30,7 @@ Features:
 Run following commands in Command Prompt OR Open Git Bash
 
 - Redirect to desired directory (projects root folder) where you want to place your code.
+- From Local machine, Start the Apache and MySQL services from xampp or wamp whatever you use.
 - Run `git clone https://github.com/isunnydoshi/laravel-5.5-basic-auth-installation.git`
 - Create a MySQL database for the project.
 - Copy .env.example to .env file and add your app settings and database settings in .env file: `cp .env.example .env`
