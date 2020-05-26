@@ -6,7 +6,7 @@ Laravel is one of the most known PHP frameworks in the market, used by millions 
 
 This repository comes with basic authentication for **Laravel 5.5** as the fresh Laravel checkout didn't include all the required files by default.
 
-Features:
+**Features:**
 
 - Register New User
 - Login / Logout
