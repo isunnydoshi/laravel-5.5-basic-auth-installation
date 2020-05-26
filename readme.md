@@ -45,7 +45,7 @@ Done!
 
 I currently made this project for personal purposes. I decided to share it here to help anyone with the same needs. If you have any feedback to improve it, feel free to make a suggestion, or open a PR!
 
-The tutorial of the project can be found at [Laravel 5 Basic Auth Installation - Sunny Doshi Blog](http://blog.sunnydoshi.in/)
+The tutorial of the project can be found at [Laravel 5 Basic Auth Installation - Sunny Doshi Blog](https://blog.sunnydoshi.in/2020/05/04/laravel-5-5-basic-auth-installation/)
 
 ## Official Documentation
 
