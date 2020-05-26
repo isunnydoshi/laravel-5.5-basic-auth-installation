@@ -27,7 +27,7 @@ Features:
 
 ## Installation Instructions
 
-Run following commands in Command Prompt OR Open Git Bash
+Run following commands in Command Prompt OR Open [Git Bash](https://git-scm.com/downloads)
 
 - Redirect to desired directory (project root folder) where you want to place your code.
 - From Local machine, Start the Apache and MySQL services from xampp or wamp whatever you use.
